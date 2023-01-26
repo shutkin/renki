@@ -1,0 +1,7 @@
+[package]
+name = "renki-app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+renki-core = {path="../core"}
